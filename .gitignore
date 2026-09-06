@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local/raw datasets
+data/*.csv
+data/*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
